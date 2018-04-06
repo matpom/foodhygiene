@@ -1,0 +1,191 @@
+{
+  "establishments": [
+    {
+      "FHRSID": 982849,
+      "LocalAuthorityBusinessID": "EHDC12463",
+      "BusinessName": "1 & 30 DONALD DEWAR COURT",
+      "BusinessType": "Caring Premises",
+      "BusinessTypeID": 5,
+      "AddressLine1": "",
+      "AddressLine2": "1 & 30 Donald Dewar Court",
+      "AddressLine3": "Provost Fraser Drive",
+      "AddressLine4": "Aberdeen",
+      "PostCode": "AB16 5JB",
+      "Phone": "",
+      "RatingValue": "Pass",
+      "RatingKey": "fhis_pass_en-gb",
+      "RatingDate": "2017-05-15T00:00:00",
+      "LocalAuthorityCode": "760",
+      "LocalAuthorityName": "Aberdeen City",
+      "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
+      "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
+      "scores": {
+        "Hygiene": null,
+        "Structural": null,
+        "ConfidenceInManagement": null
+      },
+      "SchemeType": "FHIS",
+      "geocode": {
+        "longitude": "-2.16749501228333",
+        "latitude": "57.1613082885742"
+      },
+      "RightToReply": "",
+      "Distance": null,
+      "NewRatingPending": false,
+      "meta": {
+        "dataSource": null,
+        "extractDate": "0001-01-01T00:00:00",
+        "itemCount": 0,
+        "returncode": null,
+        "totalCount": 0,
+        "totalPages": 0,
+        "pageSize": 0,
+        "pageNumber": 0
+      },
+      "links": []
+    },
+    {
+      "FHRSID": 906411,
+      "LocalAuthorityBusinessID": "EHDC11985",
+      "BusinessName": "14FORTY @ STATOIL",
+      "BusinessType": "Restaurant/Cafe/Canteen",
+      "BusinessTypeID": 1,
+      "AddressLine1": "",
+      "AddressLine2": "Prime Four Business Park",
+      "AddressLine3": "Kingswells",
+      "AddressLine4": "Aberdeen",
+      "PostCode": "AB15 8PJ",
+      "Phone": "",
+      "RatingValue": "Pass",
+      "RatingKey": "fhis_pass_en-gb",
+      "RatingDate": "2017-12-18T00:00:00",
+      "LocalAuthorityCode": "760",
+      "LocalAuthorityName": "Aberdeen City",
+      "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
+      "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
+      "scores": {
+        "Hygiene": null,
+        "Structural": null,
+        "ConfidenceInManagement": null
+      },
+      "SchemeType": "FHIS",
+      "geocode": {
+        "longitude": "-2.229412",
+        "latitude": "57.148309"
+      },
+      "RightToReply": "",
+      "Distance": null,
+      "NewRatingPending": false,
+      "meta": {
+        "dataSource": null,
+        "extractDate": "0001-01-01T00:00:00",
+        "itemCount": 0,
+        "returncode": null,
+        "totalCount": 0,
+        "totalPages": 0,
+        "pageSize": 0,
+        "pageNumber": 0
+      },
+      "links": []
+    },
+    {
+      "FHRSID": 997643,
+      "LocalAuthorityBusinessID": "EHDC12441",
+      "BusinessName": "210 CABOOSE",
+      "BusinessType": "Restaurant/Cafe/Canteen",
+      "BusinessTypeID": 1,
+      "AddressLine1": "Provender House",
+      "AddressLine2": "37 Waterloo Quay",
+      "AddressLine3": "Aberdeen",
+      "AddressLine4": "",
+      "PostCode": "AB11 5BS",
+      "Phone": "",
+      "RatingValue": "Pass",
+      "RatingKey": "fhis_pass_en-gb",
+      "RatingDate": "2017-11-06T00:00:00",
+      "LocalAuthorityCode": "760",
+      "LocalAuthorityName": "Aberdeen City",
+      "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
+      "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
+      "scores": {
+        "Hygiene": null,
+        "Structural": null,
+        "ConfidenceInManagement": null
+      },
+      "SchemeType": "FHIS",
+      "geocode": {
+        "longitude": "-2.08436703681946",
+        "latitude": "57.145866394043"
+      },
+      "RightToReply": "",
+      "Distance": null,
+      "NewRatingPending": false,
+      "meta": {
+        "dataSource": null,
+        "extractDate": "0001-01-01T00:00:00",
+        "itemCount": 0,
+        "returncode": null,
+        "totalCount": 0,
+        "totalPages": 0,
+        "pageSize": 0,
+        "pageNumber": 0
+      },
+      "links": []
+    },
+    {
+      "FHRSID": 593037,
+      "LocalAuthorityBusinessID": "EHDC4774",
+      "BusinessName": "22 CLUB",
+      "BusinessType": "Pub/bar/nightclub",
+      "BusinessTypeID": 7843,
+      "AddressLine1": "",
+      "AddressLine2": "55 Rose Street",
+      "AddressLine3": "Aberdeen",
+      "AddressLine4": "",
+      "PostCode": "AB10 1UB",
+      "Phone": "",
+      "RatingValue": "Pass",
+      "RatingKey": "fhis_pass_en-gb",
+      "RatingDate": "2014-03-11T00:00:00",
+      "LocalAuthorityCode": "760",
+      "LocalAuthorityName": "Aberdeen City",
+      "LocalAuthorityWebSite": "http://www.aberdeencity.gov.uk",
+      "LocalAuthorityEmailAddress": "commercial@aberdeencity.gov.uk",
+      "scores": {
+        "Hygiene": null,
+        "Structural": null,
+        "ConfidenceInManagement": null
+      },
+      "SchemeType": "FHIS",
+      "geocode": {
+        "longitude": "-2.111912",
+        "latitude": "57.144562"
+      },
+      "RightToReply": "",
+      "Distance": null,
+      "NewRatingPending": false,
+      "meta": {
+        "dataSource": null,
+        "extractDate": "0001-01-01T00:00:00",
+        "itemCount": 0,
+        "returncode": null,
+        "totalCount": 0,
+        "totalPages": 0,
+        "pageSize": 0,
+        "pageNumber": 0
+      },
+      "links": []
+    }
+  ],
+  "meta": {
+    "dataSource": "Lucene",
+    "extractDate": "0001-01-01T00:00:00",
+    "itemCount": 0,
+    "returncode": "OK",
+    "totalCount": 4,
+    "totalPages": 1,
+    "pageSize": 5000,
+    "pageNumber": 1
+  },
+  "links": []
+}

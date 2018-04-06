@@ -1,0 +1,12 @@
+div#establishments-profile {
+    padding: 1.5em;
+}
+
+h2#local-authority-name {
+    margin-bottom: 1em;
+}
+
+div.center {
+    margin: auto;
+    width: 10%;
+}

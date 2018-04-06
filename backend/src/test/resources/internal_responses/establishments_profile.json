@@ -1,0 +1,29 @@
+{
+  "localAuthorityId": 97,
+  "ratingDistribution": [
+    {
+      "rating": "5",
+      "percentage": 11
+    },
+    {
+      "rating": "4",
+      "percentage": 22
+    },
+    {
+      "rating": "3",
+      "percentage": 11
+    },
+    {
+      "rating": "2",
+      "percentage": 23
+    },
+    {
+      "rating": "1",
+      "percentage": 11
+    },
+    {
+      "rating": "Exempt",
+      "percentage": 22
+    }
+  ]
+}

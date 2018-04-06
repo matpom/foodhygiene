@@ -1,0 +1,59 @@
+{
+  "authorities": [
+    {
+      "LocalAuthorityId": 197,
+      "LocalAuthorityIdCode": "760",
+      "Name": "Aberdeen City",
+      "EstablishmentCount": 1835,
+      "SchemeType": 2,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/197"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 96,
+      "LocalAuthorityIdCode": "509",
+      "Name": "Ealing",
+      "EstablishmentCount": 2411,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/96"
+        }
+      ]
+    },
+    {
+      "LocalAuthorityId": 26,
+      "LocalAuthorityIdCode": "163",
+      "Name": "Watford",
+      "EstablishmentCount": 691,
+      "SchemeType": 1,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://api.ratings.food.gov.uk/authorities/26"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "dataSource": "API",
+    "extractDate": "2018-04-07T20:09:07.0107885+01:00",
+    "itemCount": 3,
+    "returncode": "OK",
+    "totalCount": 3,
+    "totalPages": 1,
+    "pageSize": 3,
+    "pageNumber": 1
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://api.ratings.food.gov.uk/authorities"
+    }
+  ]
+}
